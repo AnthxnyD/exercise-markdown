@@ -1,4 +1,5 @@
-# Markdown
+
+# <ins>Markdown</ins>
 
 ![Image](https://www.taskade.com/blog/wp-content/uploads/2022/03/markdown-logo-1.gif)
 
@@ -18,16 +19,24 @@
 
 ## Exemples de codes
 
- ```
-  
-    line 1 of code
-    line 2 of code
-    line 3 of code
+```
+#### The quarterly results look great!
 
-´´´
+- Revenue was off the chart.
+- Profits were higher than ever.
 
+*Everything* is going according to **plan**.
+
+```
+
+## Résultat
+
+#### The quarterly results look great!
+
+- Revenue was off the chart.
+- Profits were higher than ever.
+
+*Everything* is going according to **plan**.
 
 
 [go to README](README.md)
-
-
